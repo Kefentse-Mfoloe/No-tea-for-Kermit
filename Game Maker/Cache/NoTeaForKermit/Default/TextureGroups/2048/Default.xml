@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="6">spr_flames_0.tpe</tpe>
+  <tpe x="606" y="2" tpage="Default_0" entry="7">spr_fireball_0.tpe</tpe>
+  <tpe x="710" y="2" tpage="Default_0" entry="0">spr_kermit_0.tpe</tpe>
+  <tpe x="790" y="2" tpage="Default_0" entry="2">spr_spongegar_0.tpe</tpe>
+  <tpe x="846" y="2" tpage="Default_0" entry="4">spr_tea_0.tpe</tpe>
+  <tpe x="790" y="58" tpage="Default_0" entry="1">spr_littlekermit_0.tpe</tpe>
+  <tpe x="894" y="2" tpage="Default_0" entry="5">spr_cherry_0.tpe</tpe>
+  <tpe x="846" y="46" tpage="Default_0" entry="3">spr_bullet_0.tpe</tpe>
+</TextureGroup>
